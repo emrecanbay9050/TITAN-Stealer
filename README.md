@@ -1,6 +1,9 @@
 # TITAN-Stealer
 **Titan Secure Updates - First Release**
 
+![klklk](https://github.com/user-attachments/assets/40592fad-4e32-4824-b428-029253f0df55)
+
+
 Hello Titan Secure community! In our first post, we are thrilled to share our cutting-edge digital security solutions designed for advanced software bypass techniques. Here are the powerful features of TITAN Stealer in this release:
 
 ## Core Features:
