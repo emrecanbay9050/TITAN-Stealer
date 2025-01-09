@@ -3,6 +3,8 @@
 Hello, Titan Secure community!  
 We are excited to announce the first release of our advanced digital security toolset: TITAN Stealer. This tool is designed to help professionals and developers enhance their cybersecurity capabilities, with advanced features for legitimate use in software testing and security analysis.  
 
+![klklk](https://github.com/user-attachments/assets/97ee172e-0764-4196-8485-a230b45990f3)
+
 ## Core Features
 - Clipper Tool: Secure clipboard management.  
 - Password Recovery Tool: Retrieve and manage saved credentials.  
