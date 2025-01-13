@@ -3,7 +3,6 @@
 
 ![klklk](https://github.com/user-attachments/assets/40592fad-4e32-4824-b428-029253f0df55)
 
-
 ![photo_2025-01-12_01-49-31](https://github.com/user-attachments/assets/0de1cd3e-e16e-464f-b1b0-738fd0ca858f)
 
 
@@ -21,20 +20,12 @@ Hello Titan Secure community! In our first post, we are thrilled to share our cu
 - Credit Card Data Recovery
 - Metadata Collection and Recovery
 
+
 ## Builder and Stub Details:
 - Private Builder for custom configurations
 - Clean Stub with minimal footprint
-- Stub Size: Only 60KB
-- Kernel API Integration for enhanced stealth
 
----
-
-## Pricing:
-- **$70** for a 1-month license  
-- Includes stable updates throughout the entire month  
-
-Stay tuned for more updates and enhancements!
-
+ 
 ---
 
 ### Contact Us:
